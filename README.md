@@ -1,6 +1,8 @@
 # wizard-gesture-game
 Gesture-controlled 3D wizard game built with Python, Ursina, OpenCV and MediaPipe
-![Banner](assets/images/banner.png)
+<img width="1774" height="887" alt="706ffb99-d340-4cd7-84ff-7a19b0b870e9" src="https://github.com/user-attachments/assets/500e1302-0d86-409c-81f7-949edfac7cd7" />
+<img width="1536" height="1024" alt="eed1a829-0256-4ee3-b70b-734f83bd0b70" src="https://github.com/user-attachments/assets/45d3b817-a1c3-4443-924a-f793bbbde88e" />
+
 
 # 🧙 Wizard Gesture-Based 3D Game
 
@@ -97,7 +99,7 @@ Examples:
 
 ## 🛡️ Defense Magic
 
-![Shield](assets/images/shield.png)
+
 
 | Spell | Effect |
 |---------|---------|
